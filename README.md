@@ -3,6 +3,7 @@
 A full-stack e-commerce platform built with the MERN stack, featuring a C2C marketplace where customers can buy and sell used products.
 
 **Live Demo:** [https://shop-wave-gamma.vercel.app/] 
+
 <img width="1918" height="1087" alt="image" src="https://github.com/user-attachments/assets/32be3690-85f1-432a-81de-f00ad61e7a70" />
 
 **Backend API:** [https://shopwave-backend-wdbs.onrender.com]
