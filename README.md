@@ -2,7 +2,7 @@
 
 A full-stack e-commerce platform built with the MERN stack, featuring a C2C marketplace where customers can buy and sell used products.
 
-**Live Demo:** [shopwave-frontend.vercel.app](#) | **Backend API:** [shopwave-backend.onrender.com](#)
+**Live Demo:** [shopwave-frontend.vercel.app](#) | **Backend API:** [https://shopwave-backend-wdbs.onrender.com](#)
 
 ---
 
