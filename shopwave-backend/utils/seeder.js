@@ -9,7 +9,7 @@ const users = [
 ];
 
 // Images stored locally in frontend/public/images/
-const BASE = "/images";
+const BASE = "/Images";
 
 const products = [
   {
